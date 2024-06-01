@@ -1,2 +1,2 @@
 # auzn-agency
- A conpany website built with react & taildwindCSS
+ A company website built with react & taildwindCSS
